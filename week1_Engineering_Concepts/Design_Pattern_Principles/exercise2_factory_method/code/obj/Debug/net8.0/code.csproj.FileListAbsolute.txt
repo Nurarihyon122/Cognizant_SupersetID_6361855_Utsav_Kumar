@@ -1,0 +1,15 @@
+C:\Users\umang\OneDrive\Desktop\Cognizant_Superset_6361855_Utsav_Kumar\week1_Engineering_Concepts\Design_Pattern_Principles\exercise2_factory_method\code\bin\Debug\net8.0\code.exe
+C:\Users\umang\OneDrive\Desktop\Cognizant_Superset_6361855_Utsav_Kumar\week1_Engineering_Concepts\Design_Pattern_Principles\exercise2_factory_method\code\bin\Debug\net8.0\code.deps.json
+C:\Users\umang\OneDrive\Desktop\Cognizant_Superset_6361855_Utsav_Kumar\week1_Engineering_Concepts\Design_Pattern_Principles\exercise2_factory_method\code\bin\Debug\net8.0\code.runtimeconfig.json
+C:\Users\umang\OneDrive\Desktop\Cognizant_Superset_6361855_Utsav_Kumar\week1_Engineering_Concepts\Design_Pattern_Principles\exercise2_factory_method\code\bin\Debug\net8.0\code.dll
+C:\Users\umang\OneDrive\Desktop\Cognizant_Superset_6361855_Utsav_Kumar\week1_Engineering_Concepts\Design_Pattern_Principles\exercise2_factory_method\code\bin\Debug\net8.0\code.pdb
+C:\Users\umang\OneDrive\Desktop\Cognizant_Superset_6361855_Utsav_Kumar\week1_Engineering_Concepts\Design_Pattern_Principles\exercise2_factory_method\code\obj\Debug\net8.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umang\OneDrive\Desktop\Cognizant_Superset_6361855_Utsav_Kumar\week1_Engineering_Concepts\Design_Pattern_Principles\exercise2_factory_method\code\obj\Debug\net8.0\code.AssemblyInfoInputs.cache
+C:\Users\umang\OneDrive\Desktop\Cognizant_Superset_6361855_Utsav_Kumar\week1_Engineering_Concepts\Design_Pattern_Principles\exercise2_factory_method\code\obj\Debug\net8.0\code.AssemblyInfo.cs
+C:\Users\umang\OneDrive\Desktop\Cognizant_Superset_6361855_Utsav_Kumar\week1_Engineering_Concepts\Design_Pattern_Principles\exercise2_factory_method\code\obj\Debug\net8.0\code.csproj.CoreCompileInputs.cache
+C:\Users\umang\OneDrive\Desktop\Cognizant_Superset_6361855_Utsav_Kumar\week1_Engineering_Concepts\Design_Pattern_Principles\exercise2_factory_method\code\obj\Debug\net8.0\code.sourcelink.json
+C:\Users\umang\OneDrive\Desktop\Cognizant_Superset_6361855_Utsav_Kumar\week1_Engineering_Concepts\Design_Pattern_Principles\exercise2_factory_method\code\obj\Debug\net8.0\code.dll
+C:\Users\umang\OneDrive\Desktop\Cognizant_Superset_6361855_Utsav_Kumar\week1_Engineering_Concepts\Design_Pattern_Principles\exercise2_factory_method\code\obj\Debug\net8.0\refint\code.dll
+C:\Users\umang\OneDrive\Desktop\Cognizant_Superset_6361855_Utsav_Kumar\week1_Engineering_Concepts\Design_Pattern_Principles\exercise2_factory_method\code\obj\Debug\net8.0\code.pdb
+C:\Users\umang\OneDrive\Desktop\Cognizant_Superset_6361855_Utsav_Kumar\week1_Engineering_Concepts\Design_Pattern_Principles\exercise2_factory_method\code\obj\Debug\net8.0\code.genruntimeconfig.cache
+C:\Users\umang\OneDrive\Desktop\Cognizant_Superset_6361855_Utsav_Kumar\week1_Engineering_Concepts\Design_Pattern_Principles\exercise2_factory_method\code\obj\Debug\net8.0\ref\code.dll

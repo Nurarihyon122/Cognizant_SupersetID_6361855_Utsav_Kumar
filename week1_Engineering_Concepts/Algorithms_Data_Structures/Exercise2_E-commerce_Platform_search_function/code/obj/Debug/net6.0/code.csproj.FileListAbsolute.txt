@@ -1,0 +1,14 @@
+C:\Users\umang\OneDrive\Desktop\Exercise2_E-commerce_Platform_search_function\code\bin\Debug\net6.0\code.exe
+C:\Users\umang\OneDrive\Desktop\Exercise2_E-commerce_Platform_search_function\code\bin\Debug\net6.0\code.deps.json
+C:\Users\umang\OneDrive\Desktop\Exercise2_E-commerce_Platform_search_function\code\bin\Debug\net6.0\code.runtimeconfig.json
+C:\Users\umang\OneDrive\Desktop\Exercise2_E-commerce_Platform_search_function\code\bin\Debug\net6.0\code.dll
+C:\Users\umang\OneDrive\Desktop\Exercise2_E-commerce_Platform_search_function\code\bin\Debug\net6.0\code.pdb
+C:\Users\umang\OneDrive\Desktop\Exercise2_E-commerce_Platform_search_function\code\obj\Debug\net6.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umang\OneDrive\Desktop\Exercise2_E-commerce_Platform_search_function\code\obj\Debug\net6.0\code.AssemblyInfoInputs.cache
+C:\Users\umang\OneDrive\Desktop\Exercise2_E-commerce_Platform_search_function\code\obj\Debug\net6.0\code.AssemblyInfo.cs
+C:\Users\umang\OneDrive\Desktop\Exercise2_E-commerce_Platform_search_function\code\obj\Debug\net6.0\code.csproj.CoreCompileInputs.cache
+C:\Users\umang\OneDrive\Desktop\Exercise2_E-commerce_Platform_search_function\code\obj\Debug\net6.0\code.dll
+C:\Users\umang\OneDrive\Desktop\Exercise2_E-commerce_Platform_search_function\code\obj\Debug\net6.0\refint\code.dll
+C:\Users\umang\OneDrive\Desktop\Exercise2_E-commerce_Platform_search_function\code\obj\Debug\net6.0\code.pdb
+C:\Users\umang\OneDrive\Desktop\Exercise2_E-commerce_Platform_search_function\code\obj\Debug\net6.0\code.genruntimeconfig.cache
+C:\Users\umang\OneDrive\Desktop\Exercise2_E-commerce_Platform_search_function\code\obj\Debug\net6.0\ref\code.dll
