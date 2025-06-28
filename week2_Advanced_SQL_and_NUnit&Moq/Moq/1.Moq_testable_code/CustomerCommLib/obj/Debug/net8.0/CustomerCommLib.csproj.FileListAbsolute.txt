@@ -1,0 +1,11 @@
+C:\Users\umang\OneDrive\Desktop\Moq\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.deps.json
+C:\Users\umang\OneDrive\Desktop\Moq\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.dll
+C:\Users\umang\OneDrive\Desktop\Moq\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\umang\OneDrive\Desktop\Moq\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umang\OneDrive\Desktop\Moq\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\umang\OneDrive\Desktop\Moq\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\umang\OneDrive\Desktop\Moq\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\umang\OneDrive\Desktop\Moq\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.dll
+C:\Users\umang\OneDrive\Desktop\Moq\CustomerCommLib\obj\Debug\net8.0\refint\CustomerCommLib.dll
+C:\Users\umang\OneDrive\Desktop\Moq\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\umang\OneDrive\Desktop\Moq\CustomerCommLib\obj\Debug\net8.0\ref\CustomerCommLib.dll

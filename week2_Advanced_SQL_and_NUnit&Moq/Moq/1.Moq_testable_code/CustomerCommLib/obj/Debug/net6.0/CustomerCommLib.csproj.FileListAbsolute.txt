@@ -1,0 +1,11 @@
+C:\Users\umang\Downloads\MoqTestableCodeManual\CustomerCommLib\bin\Debug\net6.0\CustomerCommLib.deps.json
+C:\Users\umang\Downloads\MoqTestableCodeManual\CustomerCommLib\bin\Debug\net6.0\CustomerCommLib.dll
+C:\Users\umang\Downloads\MoqTestableCodeManual\CustomerCommLib\bin\Debug\net6.0\CustomerCommLib.pdb
+C:\Users\umang\Downloads\MoqTestableCodeManual\CustomerCommLib\obj\Debug\net6.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umang\Downloads\MoqTestableCodeManual\CustomerCommLib\obj\Debug\net6.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\umang\Downloads\MoqTestableCodeManual\CustomerCommLib\obj\Debug\net6.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\umang\Downloads\MoqTestableCodeManual\CustomerCommLib\obj\Debug\net6.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\umang\Downloads\MoqTestableCodeManual\CustomerCommLib\obj\Debug\net6.0\CustomerCommLib.dll
+C:\Users\umang\Downloads\MoqTestableCodeManual\CustomerCommLib\obj\Debug\net6.0\refint\CustomerCommLib.dll
+C:\Users\umang\Downloads\MoqTestableCodeManual\CustomerCommLib\obj\Debug\net6.0\CustomerCommLib.pdb
+C:\Users\umang\Downloads\MoqTestableCodeManual\CustomerCommLib\obj\Debug\net6.0\ref\CustomerCommLib.dll
