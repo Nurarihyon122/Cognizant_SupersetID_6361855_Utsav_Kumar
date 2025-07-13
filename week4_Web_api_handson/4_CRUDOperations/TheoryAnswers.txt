@@ -1,0 +1,6 @@
+1. CRUD: Create, Read, Update, Delete
+2. [FromBody]: Binds incoming JSON to model class
+3. PUT:
+   - Validates ID
+   - Updates existing record
+   - Returns updated object or BadRequest

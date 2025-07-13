@@ -1,0 +1,8 @@
+1. RESTful Web Service: Uses HTTP verbs (GET, POST, PUT, DELETE) to operate on resources identified by URIs.
+2. Web API: Framework for building HTTP services on top of .NET.
+3. Microservice: Architectural style breaking down apps into small, independent services.
+4. WebService vs WebAPI:WebService: Uses SOAP, returns XML, hosted on IIS.
+   WebAPI: Uses HTTP, returns JSON/XML, lightweight.
+5. HTTP Request/Response: Client sends request; server responds with status and data.
+6. Action Verbs: [HttpGet], [HttpPost], [HttpPut], [HttpDelete].
+7. HTTP Status Codes: 200 OK, 400 BadRequest, 401 Unauthorized, 500 InternalServerError.

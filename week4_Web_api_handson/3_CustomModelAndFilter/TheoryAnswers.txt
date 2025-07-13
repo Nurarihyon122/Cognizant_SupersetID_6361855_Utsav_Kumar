@@ -1,0 +1,9 @@
+1. Custom Model: Employee class with nested objects and list.
+2. [AllowAnonymous]: Allows unauthenticated access to controller/action.
+3. [FromBody]: Binds complex type parameters from request body.
+4. Custom Filter:
+   - ActionFilterAttribute: Override OnActionExecuting
+   - Check headers for Authorization, validate 'Bearer'
+5. Custom Exception Filter:
+   - IExceptionFilter: Override OnException
+   - Logs exception and returns HTTP 500

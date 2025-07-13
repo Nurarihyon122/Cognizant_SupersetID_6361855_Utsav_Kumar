@@ -1,0 +1,9 @@
+1. Swagger: Tool for API documentation and testing.
+2. Swashbuckle.AspNetCore: NuGet package to integrate Swagger in .NET Core.
+3. ProducesResponseType: Specifies expected HTTP response types.
+4. Postman:
+   - GUI for testing APIs
+   - Structure: Headers (Auth), Body (JSON), Method (GET, POST, etc.)
+5. Routing & Naming:
+   - Name attribute: Friendly route naming
+   - ActionName: Supports method overloading on same verb

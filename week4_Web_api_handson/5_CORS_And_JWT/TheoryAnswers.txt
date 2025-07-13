@@ -1,0 +1,8 @@
+1. CORS: Allows cross-domain API access, configured in Startup.cs
+2. JWT:
+   - Token in Authorization header
+   - Claims carry role/user data
+   - Validates issuer, audience, signature
+3. AuthController: Issues JWT
+4. [Authorize]: Restricts access by token & roles
+5. Token expiration: JWT expires based on 'expires' property
